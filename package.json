@@ -1,0 +1,17 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "login and register demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "login",
+    "register",
+    "demo"
+  ],
+  "author": "1396956549@qq.com",
+  "license": "ISC"
+}
